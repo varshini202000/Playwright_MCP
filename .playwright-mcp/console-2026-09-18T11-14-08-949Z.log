@@ -1,0 +1,6 @@
+[    1241ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://www.automationpractice.pl/favicon.ico:0
+[    5167ms] [INFO] Unregistering service worker: ServiceWorkerRegistration @ https://v3.traincdn.com/sys-static/sys-v3-host-app-static/Desktop/Default/entry-561e2ef25d.js:1
+[    5443ms] [INFO] scope: [/domain/] Service worker installing @ https://v3.traincdn.com/sys-static/sys-v3-host-app-static/Desktop/Default/entry-561e2ef25d.js:1
+[    5772ms] [ERROR] Hydration completed but contains mismatches. @ https://v3.traincdn.com/sys-static/shared-assets/Desktop/__shared__vue_58e4ccdf24.js:8
+[    6083ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://1xlite-34606.com/bonus-api/page/loyalty/loyalty-program/exist?language=en&country=my:0
+[    6703ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://1xlite-34606.com/en/registration?tag=d_5115874m_23455c_myReg_8887_6aad1d057428b70001f31d04&pb=a9a902684a78484e99e1366e12d64425&click_id=6aad1d057428b70001f31d04&r=registration:0

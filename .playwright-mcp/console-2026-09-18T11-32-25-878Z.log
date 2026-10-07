@@ -1,0 +1,5 @@
+[    2001ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ http://automationpractice.pl/favicon.ico:0
+[    5582ms] [INFO] Unregistering service worker: ServiceWorkerRegistration @ https://v3.traincdn.com/sys-static/sys-v3-host-app-static/Desktop/Default/entry-561e2ef25d.js:1
+[    5853ms] [INFO] scope: [/domain/] Service worker installing @ https://v3.traincdn.com/sys-static/sys-v3-host-app-static/Desktop/Default/entry-561e2ef25d.js:1
+[    6446ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://1xlite-34606.com/bonus-api/page/loyalty/loyalty-program/exist?language=en&country=my:0
+[    6891ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://1xlite-34606.com/en/registration?tag=d_5115874m_23455c_myReg_8887_6aad214dfd0df500013c5284&pb=a9a902684a78484e99e1366e12d64425&click_id=6aad214dfd0df500013c5284&r=registration:0
