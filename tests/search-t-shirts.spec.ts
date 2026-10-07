@@ -7,4 +7,7 @@ test('searches for T-shirts and verifies the faded short sleeve product', async 
   await page.locator('button[name="submit_search"]').click();
 
   await expect(page.getByText('Faded Short Sleeve T-shirts', { exact: true })).toBeVisible();
+  console.log('Test completed successfully: Searched for T-shirts and verified the faded short sleeve product.');
+ 
 });
+ 
